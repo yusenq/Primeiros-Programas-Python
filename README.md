@@ -40,5 +40,7 @@ Este repositório foi criado para marcar minha evolução.
 
 - jogo_de_adivinhação.py -> Neste programa, entendi um pouco mais a fundo o uso do WHILE e a aplicação de condicionais dentro de um loop.
 
+- maior_e_menor.py -> Neste arquivo, exercitei mais um pouco meu manejo com listas.
+
 - carrinho_de_compras.py -> Aqui apliquei tudo que aprendi até agora (09/09/2026), e aprendi sobre a utilização de DEF, que junta blocos de comandos em containers, para que eu consiga reutilizar esses blocos inteiros em outro momento, como uma única função.
 
