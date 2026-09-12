@@ -44,3 +44,4 @@ Este repositório foi criado para marcar minha evolução.
 
 - carrinho_de_compras.py -> Aqui apliquei tudo que aprendi até agora (09/09/2026), e aprendi sobre a utilização de DEF, que junta blocos de comandos em containers, para que eu consiga reutilizar esses blocos inteiros em outro momento, como uma única função.
 
+- media_lista.py -> Feito para descobrir como checar listas com for. Ainda preciso de muita prática com isso, mas consegui reconhecer meus erros por enquanto.
