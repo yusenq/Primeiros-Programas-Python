@@ -45,3 +45,7 @@ Este repositório foi criado para marcar minha evolução.
 - carrinho_de_compras.py -> Aqui apliquei tudo que aprendi até agora (09/09/2026), e aprendi sobre a utilização de DEF, que junta blocos de comandos em containers, para que eu consiga reutilizar esses blocos inteiros em outro momento, como uma única função.
 
 - media_lista.py -> Feito para descobrir como checar listas com for. Ainda preciso de muita prática com isso, mas consegui reconhecer meus erros por enquanto.
+
+- cadastro_de_pessoas.py -> Feito para testar o uso mais complexo de condicionais e lógica de programação.
+
+- sistema_de_estoque.py -> Ainda não está pronto e é apenas a primeira versão, pretendo termina-lo, e após isso, pretendo melhorar e otimizar esse sistema com DEF.
