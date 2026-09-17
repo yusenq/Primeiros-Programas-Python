@@ -49,3 +49,5 @@ Este repositório foi criado para marcar minha evolução.
 - cadastro_de_pessoas.py -> Feito para testar o uso mais complexo de condicionais e lógica de programação.
 
 - sistema_de_estoque.py -> Ainda não está pronto e é apenas a primeira versão, pretendo termina-lo, e após isso, pretendo melhorar e otimizar esse sistema com DEF.
+
+- sistema_de_estoque-V2 -> Usei tudo que tinha feito de errado na primeira versão para estudar, entender e corrigir meus erros. Após isso, apliquei todos os novos conhecimentos dentro desta segunda versão, feita para o cadastro de carros em garagens/concessionárias. Exercitei e foquei na estruturação do código (fundamento no qual eu estava pecando muito), e estou feliz com o resultado.
