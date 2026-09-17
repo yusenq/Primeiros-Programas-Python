@@ -86,3 +86,6 @@ if quest_cadastro.upper() == 'SIM':
 elif quest_cadastro.upper() == 'NÃO' or quest_cadastro.upper() == 'NAO':
     print(f'Certo, obrigado pelo acesso!')
     exit()
+
+
+#adicionar bd
