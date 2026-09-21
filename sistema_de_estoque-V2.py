@@ -89,3 +89,4 @@ elif quest_cadastro.upper() == 'NÃO' or quest_cadastro.upper() == 'NAO':
 
 
 #adicionar bd
+#Focar mais na reestruturação do código.
