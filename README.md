@@ -53,3 +53,5 @@ Este repositório foi criado para marcar minha evolução.
 - sistema_de_estoque-V2 -> Usei tudo que tinha feito de errado na primeira versão para estudar, entender e corrigir meus erros. Após isso, apliquei todos os novos conhecimentos dentro desta segunda versão, feita para o cadastro de carros em garagens/concessionárias. Exercitei e foquei na estruturação do código (fundamento no qual eu estava pecando muito), e estou feliz com o resultado.
 
 - cadastro_de_usuarios.py -> Aprendendo lista para facilitar na organização e estruturação do código. Pretendo voltar para este programa mais em breve. Depois de errar muito na estrutura do código, aprendi muito a corrigir este tipo de erro.
+
+- biblioteca_primeira_versao.py -> Testando o uso de TRY e ainda treinando a estruturação do código. Farei uma segunda versão em breve.
