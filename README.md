@@ -55,3 +55,5 @@ Este repositório foi criado para marcar minha evolução.
 - cadastro_de_usuarios.py -> Aprendendo lista para facilitar na organização e estruturação do código. Pretendo voltar para este programa mais em breve. Depois de errar muito na estrutura do código, aprendi muito a corrigir este tipo de erro.
 
 - biblioteca_primeira_versao.py -> Testando o uso de TRY e ainda treinando a estruturação do código. Farei uma segunda versão em breve.
+
+- agenda_telefonica.py -> A primeira versão de um programa que pretendo melhorar.
